@@ -1,0 +1,10 @@
+h1, p {
+    color: ghostwhite;
+}
+
+input {
+    display: inline-block;
+    width: 35%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
